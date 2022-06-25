@@ -1,0 +1,8 @@
+file created in main branch 123432 
+w 
+
+console.log(a,d)
+
+let a =10
+
+console.log(a)
